@@ -1,7 +1,7 @@
 # Site settings
-title: 流浪地 # 博客名称
+title:  过半人生存放区# 博客名称
 description: "Sample Blog"
-url:  "https://cybergipsy2020.github.io" # 博客地址
+url:  "https://panssssy.github.io" # 博客地址
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Ipsy" #你的昵称
@@ -28,7 +28,7 @@ logo: /assets/img/logo.jpg # 博客logo，此处引用了路径为“/assets/img
 social:
   links: # 其他链接
     - https://www.google.com
-    - https://www.github.com/cybergipsy2020
+    - https://www.github.com/panssssy
 
 webmaster_verifications:
   google: 
